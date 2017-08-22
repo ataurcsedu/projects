@@ -1,2 +1,2 @@
-This is an simple Angular.js product plugin
+Ajax cross origin request plugin.
 ========
